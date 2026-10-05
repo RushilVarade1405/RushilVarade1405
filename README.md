@@ -108,7 +108,7 @@ class RushilVarade:
 
 ## 🔬 VulnHub Lab Write-ups
 
-**9+ machines rooted** — full pentest methodology: Enumeration → Exploitation → Privilege Escalation → Root
+**9 machines rooted** — full pentest methodology: Enumeration → Exploitation → Privilege Escalation → Root
 
 <details>
 <summary><b>🏚️ Aragog</b> — Click to expand</summary>
@@ -243,6 +243,7 @@ class RushilVarade:
     └───────────────────────────────┘
 
             Enumeration
+
                   ↓
             Exploitation
                   ↓
@@ -250,5 +251,9 @@ class RushilVarade:
                   ↓
                  ROOT
 ```
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff88,100:0d1117&height=120&section=header&text=&fontSize=0" width="100%"/>
 
 </div>
