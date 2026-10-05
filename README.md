@@ -227,8 +227,7 @@ class RushilVarade:
 ```
                 VULNHUB PROGRESS
 
-                      9+
-               MACHINES ROOTED
+          9 MACHINES ROOTED
 
     ┌───────────────────────────────┐
     │ ✓ Aragog                      │
@@ -243,7 +242,6 @@ class RushilVarade:
     └───────────────────────────────┘
 
             Enumeration
-
                   ↓
             Exploitation
                   ↓
@@ -251,7 +249,6 @@ class RushilVarade:
                   ↓
                  ROOT
 ```
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff88,100:0d1117&height=120&section=header&text=&fontSize=0" width="100%"/>
