@@ -4,7 +4,7 @@
 
 # 👾 RUSHIL VARADE
 
-### `VAPT Engineer` · `Offensive Security` · `SOC Analyst`
+### `VAPT Engineer` · `Offensive Security`
 
 <a href="mailto:rushilvarade@gmail.com"><img src="https://img.shields.io/badge/Gmail-rushilvarade%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://linkedin.com/in/rushil-varade"><img src="https://img.shields.io/badge/LinkedIn-Rushil--Varade-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -72,8 +72,8 @@ class RushilVarade:
 | 🔍 Recon & OSINT | Nmap · Masscan · Maltego · OSINT Frameworks · Nessus |
 | 🕸️ Network Security | Wireshark · TCP/UDP · OSI Model · DNS · DHCP · IDS/IPS · VPN · Firewall |
 | 💥 Exploitation | Metasploit · OpenVAS · Privilege Escalation · Enumeration |
-| 🐍 Scripting & Dev | Python · Bash · PowerShell · Java · SQL |
-| 🖥️ OS & Infra | Kali Linux · Windows Server · macOS · Linux Internals |
+| 🐍 Scripting & Dev | Python · Bash · PowerShell · SQL |
+| 🖥️ OS & Infra | Kali Linux · Windows Server · macOS · Linux |
 | 🔬 Forensics & Blue Team | Digital Forensics · Splunk SIEM · Cyber Laws · Compliance |
 | 🏁 Labs & CTF | VulnHub · TryHackMe · OWASP Labs · Advent of Cyber |
 
@@ -102,7 +102,7 @@ class RushilVarade:
 
 - **TryHackMe — Advent of Cyber 2025:** Completed 24/24 daily challenges covering SQLi, XSS, IDOR, vulnerability scanning, and log analysis (OWASP Top 10, OpenVAS, Splunk SIEM).
 - **TryHackMe — Hacker Holidays:** Completed a 14-day gamified series, rooting a room per day across web, network, and privilege-escalation scenarios.
-- **VulnHub — 9+ Machines Rooted:** Full methodology from enumeration to root (details below).
+- **VulnHub — 9 Machines Rooted:** Full methodology from enumeration to root (details below).
 
 ---
 
